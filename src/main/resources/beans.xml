@@ -17,5 +17,5 @@
 	</bean>
 	
 	<context:annotation-config />
-	<context:component-scan base-package="pl.pik.kk.przyklady.spring.p04, pl.pik.kk.przyklady.spring.p08,, pl.pik.kk.przyklady.spring.p07" />
+	<context:component-scan base-package="pl.pik.kk.przyklady.spring" />
 </beans>
